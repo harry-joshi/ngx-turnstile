@@ -5,9 +5,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/verto-health/ngx-turnstile.git"
+    "url": "git+https://github.com/harry-joshi/ngx-turnstile.git"
   },
-  "homepage": "https://github.com/verto-health/ngx-turnstile#readme",
+  "homepage": "https://github.com/harry-joshi/ngx-turnstile.git#readme",
   "keywords": [
     "angular",
     "captcha",
@@ -37,7 +37,7 @@
   },
   "sideEffects": false,
   "bugs": {
-    "url": "https://github.com/verto-health/ngx-turnstile/issues"
+    "url": "https://github.com/harry-joshi/ngx-turnstile.git/issues"
   },
   "main": "index.js",
   "directories": {
